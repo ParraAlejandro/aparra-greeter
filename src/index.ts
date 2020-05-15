@@ -5,6 +5,6 @@ const greeter = (name: string) => {
   m = name;
   return `Hello ${m}`;
 };
-//fnc
+//fnc .....
 const dissmiser = () => `Bye ${m}`;
 export { greeter, dissmiser };
