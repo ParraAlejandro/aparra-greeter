@@ -1,6 +1,6 @@
 {
   "name": "aparra-greeter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "app for test upload library to git and npm",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
