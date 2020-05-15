@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-greeter",
+  "name": "@aparra/greeter",
   "version": "1.0.0",
   "description": "app for test upload library to git and npm",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ParraAlejandro/my-awesome-greeter.git"
+    "url": "git+https://github.com/ParraAlejandro/aparra-greeter.git"
   },
   "keywords": [
     "Hello",
@@ -27,9 +27,9 @@
   "author": "Alejandro Parra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ParraAlejandro/my-awesome-greeter/issues"
+    "url": "https://github.com/ParraAlejandro/aparra-greeter/issues"
   },
-  "homepage": "https://github.com/ParraAlejandro/my-awesome-greeter#readme",
+  "homepage": "https://github.com/ParraAlejandro/aparra-greeter#readme",
   "devDependencies": {
     "@types/jest": "^25.2.2",
     "jest": "^26.0.1",
