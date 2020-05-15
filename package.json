@@ -1,5 +1,5 @@
 {
-  "name": "@aparra/greeter",
+  "name": "aparra-greeter",
   "version": "1.0.0",
   "description": "app for test upload library to git and npm",
   "main": "lib/index.js",
